@@ -52,14 +52,6 @@ This project simulates an enterprise-ready internal communication tool used over
 - Cross-language integration and database logging
 - Simulating real-world enterprise messaging environments
 
----
-
-## 📸 Preview (Optional)
-
-> Include screenshots or demo GIFs here
-
----
-
 ## 📜 License
 
 This project is for educational purposes and portfolio demonstration. Not production-ready.
