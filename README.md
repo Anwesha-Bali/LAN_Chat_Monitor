@@ -1,6 +1,6 @@
 # 🛰️ LAN Chat Monitor & Alert System
 
-A full-stack, cross-platform LAN chat system with real-time monitoring, user analytics, and keyword-based alerts. Built using **C++**, **Java**, **C#**, **SQL**, and core **networking technologies**, tailored for Windows environments.
+A full-stack, cross-platform LAN chat system with real-time monitoring, user analytics, and keyword-based alerts. Built using **C++**, **Java**, **C#**, **SQL**, and core **networking technologies**, tailored for Windows environments!
 
 ---
 
