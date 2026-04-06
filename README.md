@@ -6,7 +6,7 @@ A full-stack, cross-platform LAN chat system with real-time monitoring, user ana
 
 ## 🚀 Overview
 
-This project simulates an enterprise-ready internal communication tool used over local networks (LAN). It provides message tracking, analytics, and admin-level control in real time.
+This project simulates an enterprise-ready internal communication tool used over local networks (LAN). It provides message tracking, analytics, and admin level control in real time.
 
 ---
 
